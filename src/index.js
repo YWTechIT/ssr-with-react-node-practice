@@ -1,4 +1,3 @@
-// server code 작성
 const express = require("express");
 const ReactDOMServer = require("react-dom/server");
 const React = require("react");
